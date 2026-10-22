@@ -10,7 +10,7 @@ body {
   font-family: Georgia, serif;
   font-size: 19px;
   line-height: 1.6;
-  background-image: url("");
+  background-image: url("https://www.pinterest.com/pin/746823550734181049/");
 }
 
 
@@ -48,7 +48,7 @@ nav a:hover {
   max-width: 1000px;
   margin: 0 auto;
   padding: 50px 24px;
-  border-bottom: 4px solid #dadfdfc4;
+  border-bottom: 4px solid #767b7b;
 }
 
 .Home h1 {
@@ -74,7 +74,7 @@ nav a:hover {
   height: 400px;
   object-fit: cover;
   border-radius: 100px;
-  border-bottom: 4px solid #dadfdfc4;
+  border: 4px solid #5f6969;
 }
 
 
